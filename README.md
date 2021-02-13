@@ -1,4 +1,4 @@
 # Pima-Diabetes
 
-#Herko APP
+Herko deployment
 https://pima-diabetic-model.herokuapp.com/ 
